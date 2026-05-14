@@ -1,2 +1,3 @@
 jam.py-v7
 pyodbc
+gunicorn
